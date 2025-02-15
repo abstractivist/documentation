@@ -7,7 +7,7 @@ up multiple warehouses and transfer stored items between them.
 
 By default, the Odoo platform has one warehouse that is already configured, with the address set as
 the company's address. To create a second warehouse, select :menuselection:`Configuration -->
-Warehouses`, then click :guilabel:`Create` and configure the form as follows:
+Warehouses`, then click :guilabel:`New` and configure the form as follows:
 
 - :guilabel:`Warehouse`: the full name of the warehouse
 - :guilabel:`Short Name`: the abbreviated code by which the warehouse is referred to; the short name
